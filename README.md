@@ -41,4 +41,3 @@ Scrimba Student 😃
  </a>
 </p>
  
- (https://spotify-github-profile.vercel.app/api/view?uid=h5rzv682x5w29ouq4zqhx91mc&redirect=true)
