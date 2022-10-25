@@ -8,7 +8,7 @@ Scrimba Student 😃
 
 *   🌍  I'm based in Kisumu,Kenya
 *   ✉️  You can contact me at [oyiekeav@gmail.com](mailto:oyiekeav@gmail.com)
-*   🧠  I'm learning Boostrap and JS
+*   🧠  I'm learning Bootstrap and JS
 *   🤝  I'm open to collaborating on any HTML,CSS and JS projects
 *   ⚡  Fun fact: I dance Salsa 💃 and Bake🥧 during my free time
 
