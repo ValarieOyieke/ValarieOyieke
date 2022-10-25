@@ -39,7 +39,8 @@ Scrimba Student 😃
 ### Now Playing — Spotify 🎧
 <p>
  <a href="https://spotify-github-profile.vercel.app/api/view?uid=h5rzv682x5w29ouq4zqhx91mc&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=h5rzv682x5w29ouq4zqhx91mc&cover_image=false&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false">
- </a>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+</a>
 </p>
+
  
