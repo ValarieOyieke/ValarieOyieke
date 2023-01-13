@@ -4,12 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-Scrimba Student 😃
-
 *   🌍  I'm based in Kisumu,Kenya
 *   ✉️  You can contact me at [oyiekeav@gmail.com](mailto:oyiekeav@gmail.com)
 *   🧠  I'm learning CSS Grid and JS
-*   🤝  I'm open to collaborating on any cool projects and open source contributions
+*   🤝  I'm open to collaborating on any cool projects 
 *   ⚡  Fun fact: I dance Salsa 💃 and Bake🥧 during my free time
 
 ### Skills 
