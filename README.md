@@ -6,7 +6,7 @@ Junior Front-End Developer
 
 *   🌍  I'm based in Kisumu,Kenya
 *   ✉️  You can contact me at [oyiekeav@gmail.com](mailto:oyiekeav@gmail.com)
-*   🧠  I'm learning CSS Grid and JS
+*   🧠  I'm currently learning Tailwind CSS and ReactJS
 *   🤝  I'm open to collaborating on any cool projects 
 *   ⚡  Fun fact: I dance Salsa 💃 and Bake🥧 during my free time
 
