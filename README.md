@@ -4,9 +4,8 @@ Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Frontend Developer
 --------------------------
 
-*   🌍  I'm based in Kisumu,Kenya
+*   🌍  I'm based in Nairobi,Kenya
 *   ✉️  You can contact me at [oyiekeav@gmail.com](mailto:oyiekeav@gmail.com)
-*   🧠  I'm currently learning Tailwind CSS and ReactJS
 *   🤝  I'm open to collaborating on any cool projects 
 *   ⚡  Fun fact: I dance Salsa 💃 and Bake🥧 during my free time
 
